@@ -7,7 +7,7 @@
 # Week SUN 01/12/20 - 01/18/20
 
 * :+1: Attended lecture
-* :o2: Filled out class survey
+* :+1: Filled out class survey
 * :+1: Posted Bio on Piazza
 * :+1: Installed Python 3.8 on Machine
 * :+1: Watched Overview Engineering Cloud Computing Video
