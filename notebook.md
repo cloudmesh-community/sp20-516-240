@@ -1,10 +1,17 @@
-# Week SUN 01/19/21 - 01/25/20
+# Notebook Falconi Nicasio sp20-516-240
+
+## Week SUN 01/26/20 - 02/01/20
+* :+1: Improved notebook.md
+* :+1: Answered poll questions
+* :+1: 
+
+## Week SUN 01/19/20 - 01/25/20
 * :+1: Read Chapter 4: Data Centers from Cloud Computing
 * :+1: Attended meeting
 * :+1: Set up venv Python's virtual environment and added venv-windows.md to repo
 * :+1: Installed multipass on Windows 10 Enterprise machine and did E.Multipass.1 and E.Multipass.5
 
-# Week SUN 01/12/20 - 01/18/20
+## Week SUN 01/12/20 - 01/18/20
 
 * :+1: Attended lecture
 * :+1: Filled out class survey
