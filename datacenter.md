@@ -1,4 +1,6 @@
-# Data Center Exercises
+# Data Center Exercises :o2:
+
+:o2: I suggest at one point you fil this out
 
 ## E.Datacenter.2.a
 
