@@ -6,15 +6,10 @@ from cloudmesh.common.Shell import Shell
 
 class Common4:
 
-    def doit(self):
-
-
-        flat = FlatDict(data)
-        print(f"My name is {flat.name}")
-        print(f"The City I live in is {flat.address__city}")
-        print(f"The State I live in is {flat.address__state}")
-
+    def ls(self):
+        result = Shell.run('dir')
+        print(result)
 
 if __name__ == "__main__":
-    c = Common3()
-    c.doit()
+    c = Common4()
+    c.ls()
