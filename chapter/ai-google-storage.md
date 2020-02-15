@@ -13,7 +13,7 @@
 
 :o2: and image folded needs to contain the images
 
-:o2: bobtex refernces need to be introduced in the images
+:o2: bibtex refernces need to be introduced in the images
 
 :o2: please see our explanations we gave and watch our videos on thsi, look at notation.md where we gave proper examples!
 
