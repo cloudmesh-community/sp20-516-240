@@ -1,6 +1,9 @@
 # Google Cloud - Stoarge
 
+
 * sp20-516-235 Yasir Alibadi
+
+:o2: the name of your chapter does not make sense, where is the ai?
 
 :o2: this is not enough for a topic, you need to introduce all providers on this topic
 
