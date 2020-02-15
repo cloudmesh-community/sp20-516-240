@@ -1,6 +1,20 @@
-\# Google Cloud - Stoarge
+# Google Cloud - Stoarge
 
-### sp20-516-235 Yasir Alibadi
+* sp20-516-235 Yasir Alibadi
+
+:o2: this is not enough for a topic, you need to introduce all providers on this topic
+
+:o2: please learn markdown your headings are using inconsitent `#`
+
+:o2: figure captins are not supposed to be alt text, urls can not start with http and must include imagees
+
+:o2: and image folded needs to contain the images
+
+:o2: bobtex refernces need to be introduced in the images
+
+:o2: please see our explanations we gave and watch our videos on thsi, look at notation.md where we gave proper examples!
+
+:o2: thare are no numbers in section headers obviously.
 
 ## What is Google Cloud Stoarge?
 
@@ -14,7 +28,7 @@ with a single unified API, and easily optimize price and performance.
 2. Designed for secure and durable storage
 3. Reduce data storage carbon emissions to zero
 
-## Key features:
+## Key features
 
 Storage classes for any workload
 
