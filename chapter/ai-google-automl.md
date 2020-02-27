@@ -27,11 +27,9 @@ insights for their projects or business. It is not a free service and you have t
 some free credit to get you started. One example Google uses is Disney, where they quote
 
 > "Cloud AutoML’s technology is helping us build vision models to annotate our products with Disney characters, 
->product categories, and colors. These annotations are being integrated into our search engine to enhance the impact 
->on Guest experience through more relevant search results, expedited discovery, and product recommendations on 
->shopDisney."
-
-— Mike White, CTO, SVP, Disney Consumer Products and Interactive Media [@google-automl-sp20-516-240]
+> product categories, and colors. These annotations are being integrated into our search engine to enhance the impact 
+> on Guest experience through more relevant search results, expedited discovery, and product recommendations on 
+> shopDisney" [@google-automl-sp20-516-240].
 
 ## How to Use AutoML
 
