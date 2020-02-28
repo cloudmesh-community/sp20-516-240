@@ -6,6 +6,7 @@
 * :+1: Read Hypervisor and IaaS chapters in Cloud Computing
 * :+1: Got multipass installed and cloudmesh-multipass working
 * :+1: Worked on multipass assignment and created a pull request
+* :+1: Started Cloud API exercise assignment for AWS
 
 ## Week 6 SUN 02/16/20 - 02/22/20
 
