@@ -1,0 +1,33 @@
+openapi: 3.0.0
+info:
+  title: cpuinfo
+  description: A simple service to get cpuinfo as an example of using OpenAPI 3.0
+  license:
+    name: Apache 2.0
+  version: 0.0.1
+
+servers:
+  - url: http://localhost:8080/cloudmesh
+
+paths:
+  /python:
+    get:
+      summary: Returns python version of the hosting server
+      operationId: python.get_python_version
+      responses:
+        '200':
+          description: cpu info
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/python"
+
+components:
+  schemas:
+    python:
+      type: "object"
+      required:
+        - "model"
+      properties:
+        model:
+          type: "string"

@@ -1,5 +1,12 @@
 # Notebook Falconi Nicasio sp20-516-240
 
+## Week 8 SUN 03/01/20 - 03/07/20
+
+* :+1: Attended Monday OpenAPI group meeting
+* :+1: Got assigned a task for OpenAPI project
+* :+1: Read Chapter 6 Rest in Cloud Computing Book via Week 6 Lecture notes
+* :+1: Created openapi directory and created my first openapi example to check python version on host computer
+
 ## Week 7 SUN 02/23/20 - 02/29/20
 
 * :+1: Attended Lab
