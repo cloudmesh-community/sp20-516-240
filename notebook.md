@@ -1,5 +1,10 @@
 # Notebook Falconi Nicasio sp20-516-240
 
+## Week 9 SUN 03/08/20 - 03/14/20
+
+* :+1: Attended Monday OpenAPI group meeting
+* :+1: Worked on OpenAPI project
+
 ## Week 8 SUN 03/01/20 - 03/07/20
 
 * :+1: Attended Monday OpenAPI group meeting

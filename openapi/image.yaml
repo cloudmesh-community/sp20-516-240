@@ -1,7 +1,7 @@
 openapi: 3.0.2
 info:
-  title: pythonversion
-  description: A simple service to get python version info as an example of using OpenAPI 3.0
+  title: image
+  description: A simple service to get image specifications as an example of using OpenAPI 3.0
   license:
     name: Apache 2.0
   version: 0.0.1
@@ -10,9 +10,9 @@ servers:
   - url: http://localhost:8080/cloudmesh
 
 paths:
-  /python:
+  /image/{cloud_name}:
     get:
-      summary: Returns python version of the hosting server
+      summary: Returns list of images for the cloud
       operationId: python.get_python_version
       responses:
         '200':
