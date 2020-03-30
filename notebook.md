@@ -1,5 +1,17 @@
 # Notebook Falconi Nicasio sp20-516-240
 
+## Week 12 SUN 03/29/20 - 04/04/20
+
+* :+1: 
+
+## Week 11 SUN 03/22/20 - 03/28/20
+
+* :+1: Spring Break Extended
+
+## Week 10 SUN 03/15/20 - 03/21/20
+
+* :+1: Spring Break
+
 ## Week 9 SUN 03/08/20 - 03/14/20
 
 * :+1: Attended Monday OpenAPI group meeting
