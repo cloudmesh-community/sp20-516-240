@@ -1,8 +1,17 @@
 # Notebook Falconi Nicasio sp20-516-240
 
+## Week 13 SUN 04/05/20 - 04/11/20
+
+* :+1: Attended Monday OpenAPI group meeting
+* :+1: Attended Tuesday open zoom meeting times
+* :+1: Contributed to cloudmesh-openapi by writing a sample function for aws rekognition text detection
+* :+1: Wrote a single function for both AWS and Google text detection commited and pushed to cloudmesh-openapi
+
 ## Week 12 SUN 03/29/20 - 04/04/20
 
-* :+1: 
+* :+1: Attended Monday OpenAPI group meeting
+* :+1: Attended Tuesday open zoom meeting times
+* :+1: Contributed to cloudmesh-openapi by writing a sample function for google-vision text detection
 
 ## Week 11 SUN 03/22/20 - 03/28/20
 
