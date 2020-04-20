@@ -1,5 +1,12 @@
 # Notebook Falconi Nicasio sp20-516-240
 
+## Week 14 SUN 04/12/20 - 04/18/20
+
+* :+1: Attended Monday OpenAPI group meeting
+* :+1: Attended Tuesday open zoom meeting times
+* :+1: Tried to implement yaml file for my functions towards AI project. Came across an issue related to calling request 
+of API AI service from Google and AWS.
+
 ## Week 13 SUN 04/05/20 - 04/11/20
 
 * :+1: Attended Monday OpenAPI group meeting
