@@ -1,5 +1,16 @@
 # Notebook Falconi Nicasio sp20-516-240
 
+## Week 16 SUN 04/26/20 - 05/02/20
+
+* :+1: Attended Monday OpenAPI group meeting
+* :+1: Worked on Google OpenAPI tutorial
+* :+1: Tried to fix my error for python crashing for image-analysis function in openapi.
+
+## Week 15 SUN 04/19/20 - 04/25/20
+
+* :+1: Attended Monday OpenAPI group meeting
+* :+1: Fixed server start function and also server ps function in server.py and openapi.py
+
 ## Week 14 SUN 04/12/20 - 04/18/20
 
 * :+1: Attended Monday OpenAPI group meeting
