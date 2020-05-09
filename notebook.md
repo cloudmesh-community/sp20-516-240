@@ -1,5 +1,12 @@
 # Notebook Falconi Nicasio sp20-516-240
 
+## Week 17 SUN 05/03/20 - 05/09/20
+
+* :+1: Created image_test.py file for my image analysis functions for AWS and Google that benchmarks Google Vision text detection versus AWS Rekognition text detection in openapi project directory.
+* :+1: Updated test_001_registry.py test and added assertions where it was needed in cloudmesh-openapi.
+* :+1: Created README.md for image-analysis directory in cloudmesh-openapi.
+* :+1: Updated documentation for registry test and my AI functions tests in README-source.md
+
 ## Week 16 SUN 04/26/20 - 05/02/20
 
 * :+1: Attended Monday OpenAPI group meeting
